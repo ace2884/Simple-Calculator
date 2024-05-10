@@ -32,7 +32,8 @@ Modulus (%): Calculate the remainder of the division of the first number by the 
 
 ### Image 
 
-"C:\Users\sneha\OneDrive\Videos\Pictures\Screenshots\Screenshot (13).png"
+![Screenshot (13)](https://github.com/ace2884/start/assets/119153850/3993a12a-57ba-4ec9-98d2-968d1d0aa31c)
+
 
 ### License
 
