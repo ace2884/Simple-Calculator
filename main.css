@@ -12,8 +12,8 @@ body{
     border-radius: 15px;
     max-width: 500px;
     overflow:hidden;
-    box-shadow: 0 0 10px rgba(0, 10, 0, 0.2);
     background-image: linear-gradient(to bottom , hsl(0,0%,30%), hsl(0,0%,15%));
+
 }
 #display{
     width: 100%;
@@ -25,7 +25,7 @@ body{
     color: white;
     border-radius: 15px 15px 0 0;
     background-image: linear-gradient(to top , hsl(0,0%,30%), hsl(0,0%,15%));
-     
+
 }
  
 #keys{
@@ -45,6 +45,10 @@ button{
     font-weight: bold;
     cursor: pointer;
     background-image: linear-gradient(to bottom, hsl(0,0%,55%), hsl(0,0%,15%));
+    transition: background-color 0.7s ease;
+    box-shadow:  0 10px rgba(11, 11, 11, 0.5);
+
+    
 }
 button:hover{
     background-color:hsl(0,0%,30%);
