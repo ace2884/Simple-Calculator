@@ -19,6 +19,8 @@ Exponentiation
 
 Modulus
 
+sqrt
+
 
 ## Supported Operations
 
@@ -31,6 +33,8 @@ Multiplication (*): Multiply two numbers.
 Division (/): Divide the first number by the second. Note: Division by zero is handled.
 
 Exponentiation (^): Raise the first number to the power of the second.
+
+square root(√):finds the square root of the number
 
 Modulus (%): Calculate the remainder of the division of the first number by the second
 
