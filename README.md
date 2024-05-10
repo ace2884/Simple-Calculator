@@ -8,10 +8,15 @@ The Simple-Calculator project is a basic calculator with a user-friendly interfa
 ## Features
 
 Addition
+
 Subtraction
+
 Multiplication
+
 Division
+
 Exponentiation
+
 Modulus
 
 
