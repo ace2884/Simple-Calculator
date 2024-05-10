@@ -1,21 +1,38 @@
-## simple-cal
-## Project Name
+## Simple-Calculator
+A basic calculator with user interface written using html and javascript
 
-A brief description of your project.
+### Introduction 
 
-### Installation
+The Simple-Calculator project is a basic calculator with a user-friendly interface. It is implemented using HTML and JavaScript, making it accessible and easy to use.
 
-1. Clone the repository.
-2. Run `npm install` to install the dependencies.
+### Features
 
-### Usage
+Addition
+Subtraction
+Multiplication
+Division
+Exponentiation
+Modulus
 
-1. Run `npm start` to start the application.
-2. Open your browser and navigate to `http://localhost:3000`.
 
-### Contributing
+### Supported Operations
 
-Contributions are welcome! Please follow the guidelines in the [CONTRIBUTING.md](./CONTRIBUTING.md) file.
+Addition (+): Add two numbers.
+
+Subtraction (-): Subtract the second number from the first.
+
+Multiplication (*): Multiply two numbers.
+
+Division (/): Divide the first number by the second. Note: Division by zero is handled.
+
+Exponentiation (^): Raise the first number to the power of the second.
+
+Modulus (%): Calculate the remainder of the division of the first number by the second
+
+
+### Image 
+
+
 
 ### License
 
