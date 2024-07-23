@@ -1,5 +1,6 @@
 # Simple-Calculator
 A basic calculator with user interface written using html and javascript
+check out the website https://ace2884.github.io/Simple-Calculator/ 
 
 ## Introduction 
 
